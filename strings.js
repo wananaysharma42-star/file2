@@ -1,0 +1,5 @@
+let name = new String("abcdef")
+console.log(typeof(name))
+console.log(name[0])
+const val = name.slice(-4 , 6)
+console.log(val)
